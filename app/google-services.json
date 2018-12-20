@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "883406340891",
+    "firebase_url": "https://munezalfonsolab8.firebaseio.com",
+    "project_id": "munezalfonsolab8",
+    "storage_bucket": "munezalfonsolab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883406340891:android:719c2bc18d7a5353",
+        "android_client_info": {
+          "package_name": "com.munez.alfonso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883406340891-98qec21j04tm7lk46ds880jj07cqt7ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.munez.alfonso",
+            "certificate_hash": "0ee1a6d76e59434dabc80263f1562e5518ba1f47"
+          }
+        },
+        {
+          "client_id": "883406340891-hg2sbgt7ehpb070hk4fluj9knehp3b79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApu3T1ha8fGfqCw-HatZ56cuhcthe5Ii4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883406340891-hg2sbgt7ehpb070hk4fluj9knehp3b79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
